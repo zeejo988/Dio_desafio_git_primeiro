@@ -4,13 +4,13 @@ Desafio de projeto inicial github
 # Criar, atualizar e sicronizar um repositório no Github
 
 Abrir o github.com no computador e clicamos no botão 'Start a project'.
-Definir um nome pro 'nome do repositório' ou 'repository name'.
+Definir um titulo na aba 'nome do repositório' ou 'repository name'.
 Colocar um descrição sobre o repositório ou comentario do tipo de projeto.
 Manter publico o repositório.
 Clicar no botão 'Add a README file'.
 Clicar em 'Create repository'.
-ja no repositório, caso não entrar clicar no repositório com o nome dado. 
-README.md pasta que deve constar dentro do repositório.
+ja no repositório, caso não entrar sozinho, clicar no repositório com o nome dado. 
+No repositótio ira ter uma pasta README.md que o github criou.
 Procurar botão 'Code' para fazer clone dos dados online na maquina local.
 Na interface online é possivel fazer edições no repositório, clicando nele e botão 'edit this file', porém na maquina local temos mais opções.
 Na Maquina Local, abrir o terminal e digitar '#git init' para iniciar o github na maquina local.
