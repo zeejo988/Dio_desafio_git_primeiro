@@ -13,7 +13,7 @@ ja no repositório, caso não entrar clicar no repositório com o nome dado.
 README.md pasta que deve constar dentro do repositório.
 Procurar botão 'Code' para fazer clone dos dados online na maquina local.
 Na interface online é possivel fazer edições no repositório, clicando nele e botão 'edit this file', porém na maquina local temos mais opções.
-Na Maquina Local, abrir o terminal e digitar '#git inic' para iniciar o github na maquina local.
+Na Maquina Local, abrir o terminal e digitar '#git init' para iniciar o github na maquina local.
 Ao iniciar o github, definir uma pasta na maquina local para ser o repositório do github.
 Na pasta clonar os dados online para a maquina local pelo comando ' #git clone https://github.com/zeejo988/Dio_desafio_git_primeiro.git'.
 linux usuario e senha.
